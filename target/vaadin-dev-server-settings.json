@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/marketa.jarkovska/Desktop/localization_manager/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/marketa.jarkovska/Desktop/localization_manager/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/marketa.jarkovska/Desktop/localization_manager/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\marketa.jarkovska\\Desktop\\localization_manager\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\marketa.jarkovska\\Desktop\\localization_manager\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/marketa.jarkovska/Desktop/localization_manager/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/marketa.jarkovska/Desktop/localization_manager/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/marketa.jarkovska/Desktop/localization_manager/./src/main/frontend/generated/jar-resources",
+  "themeName": "localizationmanager",
+  "clientServiceWorkerSource": "C:\\Users\\marketa.jarkovska\\Desktop\\localization_manager\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
